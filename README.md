@@ -1,3 +1,3 @@
 # Papers
 
-Important papers on neuroscience.
+Papers giving clues on how to build AGI & neural lace
